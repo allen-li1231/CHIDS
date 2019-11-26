@@ -1,1 +1,1 @@
-# CHID
+# CHIDS
